@@ -111,3 +111,21 @@ body {
 .contactInfo ul li span {
   color: #fff;
 }
+
+.contactInfo.education li {
+  margin-bottom: 15px;
+}
+
+.contactInfo.education h5 {
+  font-weight: 500;
+  color: #03a9f4;
+}
+
+.contactInfo.education h4:nth-last-child(1) {
+  font-weight: 500;
+  color: #fff;
+}
+.contactInfo.education h4 {
+  font-weight: 300;
+  color: #fff;
+}
